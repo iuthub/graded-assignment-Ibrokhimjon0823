@@ -36,4 +36,9 @@ class User extends Authenticatable
     protected $casts = [
         'email_verified_at' => 'datetime',
     ];
+
 }
+
+// <!-- Name: Makhamadaliev Ibrokhimjon
+//      ID: U1810048
+//      Section: 004 -->
